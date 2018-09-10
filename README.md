@@ -28,5 +28,4 @@ allprojects {
         app:layout_behavior="com.example.bottomlibrary.BottomNavigationBehavior"
         design:menu="@menu/tab_menu"/> 
         
-        
-   ```
+    ```
